@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(#ADFFFB , #266D6A);
+    text-align: center;
+    font-size: 47.5px;
+}
+#countel{
+    display: block;
+    margin: 40px auto 40px;
+    padding: 10px 50px ;
+    font-size: inherit;
+}
+h1,h2{
+    margin: 3px;
+}
