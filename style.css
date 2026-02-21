@@ -2,6 +2,7 @@ body{
     background: linear-gradient(#ADFFFB , #266D6A);
     text-align: center;
     font-size: 47.5px;
+    background-repeat: no-repeat;
 }
 #countel{
     display: block;
